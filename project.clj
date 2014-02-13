@@ -1,6 +1,6 @@
 (defproject multi-wget "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Download binary files in parallel"
+  :url "https://github.com/baijian/multi-wget"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]

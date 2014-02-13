@@ -18,4 +18,3 @@
         results (map deref futures-list)]
     (doseq [r results] (println r))
     (java.lang.System/exit 0)))
-
